@@ -1,1 +1,14 @@
-
+QUESTÃO 1: 
+o algoritmo é O(n), por que ele depende da variavel n, ou seja as interações do loop depende dela.
+QUESTÃO 2: 
+entre os 2 algoritmos o algoritmo B é mais eficiente pois ele tem complexidade O(n), enquanto o outro tem complexidade O(n^2), ou seja o numero de interações do algoritmo A 
+é maior do que o algoritmo B e por isso leva menos tempo para ser executado.
+QUESTÃO 3: 
+este algoritmo tem complexidade espacial constante, ou seja O(1), por que idepende do N.
+QUESTÃO 4: 
+para o pior caso ele teria complexidade O(n). 
+Bom se comparando com uma busca binaria que tem complexidade O(log n), a busca binaria é mais eficiente que a busca linear, pois o tempo
+de execução é menor.
+QUESTÃO 5: 
+tem complexidade O(n^2).
+sim existem algoritmos de ordenção mais eficientes, um dos o mais eficiente deles é quick sort, que tem complexidade O(log n). 
